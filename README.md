@@ -1,3 +1,1 @@
 # pythonStudy
-
-print('dd)
